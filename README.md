@@ -2,7 +2,7 @@
 👋 Hi, I'm Harshitha<br><br>🎓 Computer Science student passionate about Software Development.<br><br>💻 Interested in Full Stack Development, Java Development, and Cloud Computing.<br><br>🌱 Currently learning Java, Data Structures & Algorithms, Full Stack Technologies, and Cloud Platforms.<br><br>🚀 I enjoy building real-world projects and improving my problem-solving skills.<br><br>🎯 Aspiring Software Engineer seeking opportunities to learn, grow, and contribute to innovative projects.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seelam-harshitha-2562552bb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithaseelam51@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seelam-harshitha-2562552bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithaseelam51@gmail.com) 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
